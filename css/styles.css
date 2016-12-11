@@ -133,6 +133,15 @@ a:visited {
   display: block;
   height: 400px;
 }
+
+#terry-thompson-cover {
+background-image: url("http://i.imgur.com/lr0RfSN.jpg");
+}
+
+#terry-thompson-card {
+  background-image: url("http://i.imgur.com/N40nAmd.jpg");
+}
+
 #brendan-dwyer-cover {
   background-image: url("http://i.imgur.com/sPskPNH.jpg");
 }
